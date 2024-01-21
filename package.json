@@ -1,0 +1,13 @@
+{
+	"scripts": {
+		"dev": "netlify dev"
+	},
+	"dependencies": {
+		"@netlify/functions": "^2.5.1",
+		"express": "^4.18.2",
+		"serverless-http": "^3.2.0"
+	},
+	"devDependencies": {
+		"netlify-cli": "^17.15.1"
+	}
+}
